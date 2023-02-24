@@ -1,1 +1,1 @@
-my second readme upsated
+my second readme is updated
